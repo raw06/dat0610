@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @raw0610
 - 👀 I’m studing in Hanoi University of Science and Technology
-- 🌱 I’m currently learning web developer
+- 🌱 I’m currently learning web development
 - I'm working in Secomus
 
 
